@@ -1,2 +1,2 @@
-enabled=false;
+enabled=true;
 The bot is disabled, check GitHub. https://github.com/Ar1i/PokemonGo-Bot
